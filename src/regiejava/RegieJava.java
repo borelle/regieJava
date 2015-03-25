@@ -17,5 +17,9 @@ public class RegieJava {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    public int lancement(){
+        
+        return 0;
+    }
     
 }
